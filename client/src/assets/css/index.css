@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #f9f9f9;
+}
+
+@font-face {
+    font-family: "LOGO";
+    src: url('../fonts/EBGaramond-Bold.ttf');
+}
+
+@font-face {
+    font-family: "LOGO-2";
+    src: url('../fonts/DancingScript-Bold.ttf');
+}
+
+@font-face {
+    font-family: "HEADING";
+    src: url('../fonts/Montserrat-Regular.ttf');
+}
+
+@font-face {
+    font-family: "BODY";
+    src: url('../fonts/Roboto-Regular.ttf');
+}
