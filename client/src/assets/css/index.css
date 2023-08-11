@@ -7,21 +7,22 @@ body {
 }
 
 @font-face {
-    font-family: "LOGO";
-    src: url('../fonts/EBGaramond-Bold.ttf');
-}
-
-@font-face {
-    font-family: "LOGO-2";
-    src: url('../fonts/DancingScript-Bold.ttf');
-}
-
-@font-face {
-    font-family: "HEADING";
+    font-family: "mont";
     src: url('../fonts/Montserrat-Regular.ttf');
 }
 
 @font-face {
-    font-family: "BODY";
+    font-family: "rob";
     src: url('../fonts/Roboto-Regular.ttf');
 }
+
+@font-face {
+    font-family: "brob";
+    src: url('../fonts/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: "bmont";
+    src: url('../fonts/Montserrat-Bold.ttf');
+}
+
